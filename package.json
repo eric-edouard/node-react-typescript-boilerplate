@@ -3,10 +3,7 @@
     "version": "1.0.0",
     "repository": "https://github.com/eric-edouard/node-react-typescript-boilerplate",
     "private": true,
-    "workspaces": [
-        "shared/**",
-        "apps/**"
-    ],
+    "workspaces": ["shared/**", "apps/**"],
     "scripts": {},
     "devDependencies": {
         "lerna": "^3.22.1"
