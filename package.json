@@ -1,0 +1,10 @@
+{
+    "name": "node-react-typescript-boilerplate",
+    "version": "1.0.0",
+    "repository": "https://github.com/eric-edouard/node-react-typescript-boilerplate",
+    "private": true,
+    "workspaces": ["shared/**", "apps/**"],
+    "scripts": {},
+    "devDependencies": {},
+    "dependencies": {}
+}
