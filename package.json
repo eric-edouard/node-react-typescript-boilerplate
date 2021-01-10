@@ -1,0 +1,8 @@
+{
+  "name": "node-react-typescript-boilerplate",
+  "version": "1.0.0",
+  "repository": "git@github.com:eric-edouard/node-react-typescript-boilerplate.git",
+  "author": "Eric <eric.amilhat@epitech.eu>",
+  "license": "MIT",
+  "private": true
+}
