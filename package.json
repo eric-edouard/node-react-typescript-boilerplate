@@ -4,5 +4,8 @@
   "repository": "git@github.com:eric-edouard/node-react-typescript-boilerplate.git",
   "author": "Eric <eric.amilhat@epitech.eu>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
 }
